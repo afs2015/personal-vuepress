@@ -1,1 +1,1 @@
-# Andrew Selzer - Swing dance instructor and DJ
+# Swing Dance Instructor. DJ.
