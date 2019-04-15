@@ -1,4 +1,4 @@
-# Swing Dance Teacher, Organizer, and DJ.
+# About
 
 ## Teaching Biography
 
