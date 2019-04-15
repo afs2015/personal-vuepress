@@ -1,1 +1,4 @@
-# Andrew Selzer - Swing Dance Instructor. DJ.
+---
+home: true
+heroImage: /hero.jpg
+---
