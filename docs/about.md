@@ -14,7 +14,7 @@ Andrew Selzer (he/him) started DJing in 2010 for weekly dances in the college to
 
 *2019*
 * School of Hard Knox
-  * 1st Place - Team Division with "[Cabin Fever](https://www.youtube.com/watch?v=uEzza4WabNc)"
+  * 1st Place - Team Division with "[Cabin Fever](https://www.youtube.com/watch?v=uEzza4WabNc&t=6s)"
 * Boston Tea Party
   * 2nd Place - Take The Lead (Contest where you Lead and Follow) with Bridget Nalbone
   * 2nd Place - Advanced Balboa J&J with Sascha Newberg
