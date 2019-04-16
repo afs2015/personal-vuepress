@@ -19,3 +19,7 @@ yarn docs:dev
 ```shell
 yarn docs:build
 ```
+
+## Notes
+
+* Form on Contact Page created with [this guide](https://codeburst.io/create-fantastic-forms-in-15-minutes-or-less-using-vue-nuxt-and-netlify-25e97e779fea).
