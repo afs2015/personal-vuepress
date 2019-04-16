@@ -1,6 +1,6 @@
 module.exports = {
   title: 'Andrew Selzer',
-  description: 'Swing dance instructor, organizer, and DJ based in Boston, Massachusetts.',
+  description: 'Swing dance instructor, performer, and DJ based in Boston, Massachusetts.',
   themeConfig: {
     sidebar: 'auto',
     nav: [
