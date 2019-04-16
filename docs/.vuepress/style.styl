@@ -1,5 +1,47 @@
 .theme-container.contact-page-class {
+  form {
+    /* Override Vuepress default */
+    margin-top: 2rem !important;
+  }
+  .content {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+  }
+
+  .form-button, .form-field {
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin: 8px 0;
+    padding: 12px 20px;
+    width: 100%;
+  }
+
+  .form-button {
+    /* Copied from Vuepress defaults */
+    display: inline-block;
+    font-size: 1.2rem;
+    color: #fff;
+    background-color: #3eaf7c;
+    padding: 0.8rem 1.6rem;
+    border-radius: 4px;
+    transition: background-color 0.1s ease;
+    box-sizing: border-box;
+    border-bottom: 1px solid #389d70;
+  }
+
+  .form-button:hover {
+    /* Copied from Vuepress defaults */
+    background-color: #4abf8a;
+    cursor: pointer;
+  }
+
+  .form-field {
+    font-size: 16px;
+  }
+  
   .title {
-      text-align: center;
+    text-align: center;
   }
 }
