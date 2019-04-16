@@ -6,6 +6,7 @@ module.exports = {
     nav: [
       { text: 'Home', link: '/' },
       { text: 'About', link: '/about.html' },
+      { text: 'Contact', link: '/contact.html' }
     ]
   }
 }
