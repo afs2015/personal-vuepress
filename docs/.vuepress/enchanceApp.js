@@ -6,5 +6,5 @@ export default ({
     router, // the router instance for the app
     siteData // site metadata
   }) => {
-    Vue.use(GLightBox)
+    Vue.use(GLightbox)
   }
