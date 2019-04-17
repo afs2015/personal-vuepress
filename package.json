@@ -7,7 +7,5 @@
     "docs:build": "vuepress build docs -d dist",
     "docs:postbuild": "vuepress-sitemap -H https://www.andrewselzer.com -d dist"
   },
-  "dependencies": {
-    "vuepress-plugin-sitemap": "^2.1.2"
-  }
+  "dependencies": {}
 }
