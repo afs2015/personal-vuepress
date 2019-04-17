@@ -9,3 +9,6 @@ docs/.vuepress/dist/
 
 # Yarn
 yarn-error.log
+
+# Sitemaps
+/dist
