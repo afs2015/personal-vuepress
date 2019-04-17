@@ -5,6 +5,11 @@ module.exports = {
     ['meta', { property: 'og:title', content: 'Andrew Selzer' }],  
     ['meta', { property: 'og:url', content: 'https://www.andrewselzer.com/' }],
   ],
+  plugins: {
+    'sitemap': {
+      hostname: 'https://www.andrewselzer.com'
+    },
+  },
   title: 'Andrew Selzer',
   themeConfig: {
     sidebar: 'auto',
