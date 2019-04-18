@@ -11,7 +11,8 @@ module.exports = {
     nav: [
       { text: 'Home', link: '/' },
       { text: 'About', link: '/about.html' },
-      { text: 'Contact', link: '/contact.html' }
+      { text: 'Contact', link: '/contact.html' },
+      { text: 'Media', link: '/media.html'}
     ]
   },
   serviceWorker: true,
