@@ -16,7 +16,7 @@
         <a target="_blank" href="Cari_Andrew.jpg">
           <img src="Cari_Andrew.jpg" alt="Andrew Selzer and Cari Meisel dancing in front of the Boston Custom House" width="600" height="400">
         </a>
-        <div class="desc">Photo by Braden Neisen</div>
+        <div class="desc">Photo by Braden Nesin</div>
       </div>
     </div>
 
@@ -25,7 +25,7 @@
         <a target="_blank" href="MariAndrewDip.jpg">
           <img src="MariAndrewDip.jpg" alt="Andrew Selzer and Mari Adams dance at Jeanette Neil Dance Studio" width="600" height="400">
         </a>
-        <div class="desc">Photo by Braden Neisen</div>
+        <div class="desc">Photo by Braden Nesin</div>
       </div>
     </div>
 
@@ -34,7 +34,7 @@
         <a target="_blank" href="Katie_Andrew.jpg">
           <img src="Katie_Andrew.jpg" alt="Katie Piselli and Andrew Selzer dancing in front of Boston Old State House" width="600" height="400">
         </a>
-        <div class="desc">Photo by Braden Neisen</div>
+        <div class="desc">Photo by Braden Nesin</div>
       </div>
     </div>
 
