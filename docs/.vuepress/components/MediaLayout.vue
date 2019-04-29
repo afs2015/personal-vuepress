@@ -57,8 +57,9 @@
   }
 
   div.gallery img {
-    width: 100%;
+    background: black;
     height: auto;
+    width: 100%;
   }
 
   div.desc {
