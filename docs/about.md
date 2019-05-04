@@ -46,11 +46,16 @@ Andrew Selzer (he/him) started DJing in 2010 for weekly dances in the college to
 * Lindustrial Revolution
   * 1st Place - Jack and Jill with Josephine Stewart
 
-## Previous Clients
-* Fanueil Hall Marketplace
-* Celebrity Series of Boston - Let's Dance Boston
-* The Roaring 20's Lawn Party
-* Racebrook Lodge
+## Some Previous Clients
+* Fanueil Hall Marketplace (Teaching & DJing)
+* Celebrity Series of Boston - Let's Dance Boston (DJing)
+* The Roaring 20's Lawn Party (Teaching & Performing)
+* Racebrook Lodge (Teaching & DJing)
+* Susquehanna College (Teaching)
+* Boston Tea Party (Teaching & DJing)
+* Beantown Dance Camp (DJing & Running DJ Summit)
+* Dirty Water Lindy Exchange (DJing, Running DJ Summit, Running Teaching Summit)
+* Boston Swing Central (Teaching & DJing)
 
 ## Press
 * Quoted in Dance Teacher Magazine for "[6 Roaring '20s Parties That Will Get Your Knees Knocking](https://www.dance-teacher.com/6-roaring-20s-parties-that-will-get-your-knees-knocking-2581258043.html)"
