@@ -35,6 +35,8 @@ Andrew Selzer (he/him) started DJing in 2010 for weekly dances in the college to
 *2012*
 * Boston Tea Party
   * 4th Place - Intermediate Lindy Hop Jack & Jill with Melanie Byrant
+* Jammin' on the James
+  * 1st Place - Jick & Jall (Contest where you Lead and Follow)
 * SparX
   * 2nd Place - Solo Jazz
 
