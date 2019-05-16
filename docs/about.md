@@ -46,7 +46,7 @@ Andrew Selzer (he/him) started DJing in 2010 for weekly dances in the college to
 * Lindustrial Revolution
   * 1st Place - Jack and Jill with Josephine Stewart
 
-## Some Previous Clients
+## Previous Clients
 * Fanueil Hall Marketplace (Teaching & DJing)
 * Celebrity Series of Boston - Let's Dance Boston (DJing)
 * The Roaring 20's Lawn Party (Teaching & Performing)
