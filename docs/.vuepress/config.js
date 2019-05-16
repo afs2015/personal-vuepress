@@ -12,6 +12,7 @@ module.exports = {
       { text: 'Home', link: '/' },
       { text: 'About', link: '/about.html' },
       { text: 'Contact', link: '/contact.html' },
+      { text: 'Lessons', link: '/lessons.html' },
       { text: 'Media', link: '/media.html'}
     ]
   },
