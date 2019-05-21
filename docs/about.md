@@ -13,6 +13,8 @@ Andrew Selzer (he/him) started DJing in 2010 for weekly dances in the college to
 ## Awards
 
 *2019*
+* Canadian Swing Dance Championships
+  * 3rd Place - Advanced Balboa Mix & Match with Sophie Lajeunesse
 * School of Hard Knox
   * 1st Place - Team Division with "[Cabin Fever](https://www.youtube.com/watch?v=uEzza4WabNc&t=6s)"
 * Boston Tea Party
