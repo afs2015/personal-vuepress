@@ -6,6 +6,6 @@ Andrew regularly teaches group swing dance lessons the dance organiztion he is t
 
 ## Private Lessons
 
-Andrew offers private lessons for both the follow and lead role in Lindy Hop, Charleston, St. Louis Shag, and Collegiate Shag. In addition, he offers instruction in solo/authentic/vernacular jazz.
+Andrew offers private lessons for both the follow and lead roles in Lindy Hop, Charleston, St. Louis Shag, and Collegiate Shag. In addition, he offers instruction in solo/authentic/vernacular jazz.
 
 If you are interested in having a private lesson please reach out on the [Contact page](https://www.andrewselzer.com/contact.html) so you can taking your dancing to the next level!
