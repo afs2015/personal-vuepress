@@ -54,6 +54,7 @@ Andrew Selzer (he/him) started DJing in 2010 for weekly dances in the college to
 * The Roaring 20's Lawn Party (Teaching & Performing)
 * Racebrook Lodge (Teaching & DJing)
 * Susquehanna College (Teaching)
+* Penn State Swing Dance Club (Teaching & DJing)
 * Boston Tea Party (Teaching & DJing)
 * Beantown Dance Camp (DJing & Running DJ Summit)
 * Dirty Water Lindy Exchange (DJing, Running DJ Summit, Running Teaching Summit)
