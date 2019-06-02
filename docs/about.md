@@ -2,7 +2,7 @@
 
 ## Teaching Biography
 
-Andrew Selzer (he/him) began swing dancing at The Pennsylvania State University (Penn State) Swing Dance Club. A native of Southern California, Andrew had a unique swing dance upbringing,learning and dancing on both coasts of the United States. At Penn State in the central Pennsylvania area he had the opportunity to teach, DJ, and organize workshops for several years until his college graduation.
+Andrew Selzer (he/him) began swing dancing at The Pennsylvania State University (Penn State) Swing Dance Club. A native of Southern California, Andrew had a unique swing dance upbringing, learning and dancing on both coasts of the United States. At Penn State in the central Pennsylvania area he had the opportunity to teach, DJ, and organize workshops for several years until his college graduation.
 
 His travel bug has taken him to places such as Paris, France and Herräng, Sweden, and led to experiences that have provided him with a smorgasbord of influences to bring to a classroom&nbsp;setting. These days he is the business owner and a teacher of the Boston swing dance school [Boston Lindy Hop](https://bostonlindyhop.com).
 
