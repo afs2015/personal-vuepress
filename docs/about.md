@@ -55,6 +55,7 @@ Andrew Selzer (he/him) started DJing in 2010 for weekly dances in the college to
 * Celebrity Series of Boston - Let's Dance Boston (DJing)
 * The Roaring 20's Lawn Party (Teaching & Performing)
 * Racebrook Lodge (Teaching & DJing)
+* Harvard Business School (Performing)
 * Susquehanna College (Teaching)
 * Penn State Swing Dance Club (Teaching & DJing)
 * Boston Tea Party (Teaching & DJing)
