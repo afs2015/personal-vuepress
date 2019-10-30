@@ -66,4 +66,5 @@ Andrew Selzer (he/him) started DJing in 2010 for weekly dances in the college to
 
 ## Press
 * Quoted in Dance Teacher Magazine for "[6 Roaring '20s Parties That Will Get Your Knees Knocking](https://www.dance-teacher.com/6-roaring-20s-parties-that-will-get-your-knees-knocking-2581258043.html)"
+* Photographed performing in Boston Herald for "[Dance till you drop at Lawn's swingin' bash](https://www.bostonherald.com/2017/08/10/dance-till-you-drop-at-lawns-swingin-bash/)"
 * Quoted in The Collegian, a Penn State publication for "[Dancers 'sizzle,' swing at Sugar on Top event](https://www.collegian.psu.edu/archives/article_b2d67814-0d86-5ede-92cb-a25926b1b06e.html)
