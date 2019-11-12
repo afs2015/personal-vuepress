@@ -24,6 +24,8 @@ Andrew Selzer (he/him) started DJing in 2010 for weekly dances in the college to
   * 2nd Place - Advanced Balboa J&J with Sascha Newberg
 * Kind of a Big Deal
   * 3rd Place - Advanced Mix & Match with Lily Kind
+* Nevermore Jazz Ball
+  * 3rd Place - Shag with Andrea Byrnes
 
 *2018*
 * Boston Tea Party
