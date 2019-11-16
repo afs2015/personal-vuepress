@@ -58,6 +58,7 @@ Andrew Selzer (he/him) started DJing in 2010 for weekly dances in the college to
 * The Roaring 20's Lawn Party (Teaching, Performing, & Judging)
 * Racebrook Lodge (Teaching & DJing)
 * Harvard Business School (Performing)
+* Impact Melanoma - 20 Year Anniversary (Performing)
 * Susquehanna College (Teaching)
 * Beantown Dance Camp (DJing & Organized DJ Summit)
 * Dirty Water Lindy Exchange (DJing, Organized DJ Summit, Organized Teaching Summit)
