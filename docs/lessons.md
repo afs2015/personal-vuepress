@@ -2,7 +2,7 @@
 
 ## Group Lessons
 
-Andrew teaches regularly at [Boston Lindy Hop](https://bostonlindyhop.com), a swing dance school in the Boston metro area where he is an owner and founding member. Boston Lindy Hop offers a variety of swing dancing lessons for people to who are new to dance to individuals with prior swing dance experience.
+Andrew teaches regularly at [Boston Lindy Hop](https://bostonlindyhop.com), a swing dance school in the Boston metro area where he is the owner and a founding member. Boston Lindy Hop offers a variety of swing dancing lessons for people to who are new to dance to individuals with prior swing dance experience.
 
 ## Private Lessons
 
