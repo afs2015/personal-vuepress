@@ -8,4 +8,4 @@ Andrew teaches regularly at [Boston Lindy Hop](https://bostonlindyhop.com), a sw
 
 Andrew offers private lessons for both the follow and lead roles in Lindy Hop, Charleston, St. Louis Shag, and Collegiate Shag. In addition, he offers instruction in solo/authentic/vernacular jazz.
 
-If you are interested in having a private lesson, please reach out on the [Contact page](https://www.andrewselzer.com/contact.html) so you can taking your dancing to the next level!
+If you are interested in having a private lesson, please reach out on the [Contact page](https://www.andrewselzer.com/contact.html) so you can take your dancing to the next level!
