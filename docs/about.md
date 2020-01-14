@@ -67,6 +67,12 @@ Andrew Selzer (he/him) started DJing in 2010 for weekly dances in the college to
 * York Social Dance Club (Teaching)
 * Penn State Swing Dance Club (Teaching, DJing, & Organizing)
 
+## Notable Performances
+* [Army of Follows at Lindy Focus 2019](https://www.youtube.com/watch?v=iMpiF-JUenM)
+* [Roaring 20's Lawn Party 2019 with Boston Lindy Hop](https://www.youtube.com/watch?v=viMWx8eAS7I)
+* [Roaring 20's Lawn Party 2018 with Boston Lindy Hop](https://www.youtube.com/watch?v=DBanHQ9SbLc)
+* [Roaring 20's Lawn Party 2017 with Boston Lindy Hop](https://www.youtube.com/watch?v=25jyKbnCqg8)
+
 ## Press
 * Quoted in Dance Teacher Magazine for "[6 Roaring '20s Parties That Will Get Your Knees Knocking](https://www.dance-teacher.com/6-roaring-20s-parties-that-will-get-your-knees-knocking-2581258043.html)"
 * Photographed performing in Boston Herald for "[Dance till you drop at Lawn's swingin' bash](https://www.bostonherald.com/2017/08/10/dance-till-you-drop-at-lawns-swingin-bash/)"
