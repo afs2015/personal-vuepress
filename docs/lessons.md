@@ -6,6 +6,6 @@ Andrew teaches regularly at [Boston Lindy Hop](https://bostonlindyhop.com), a sw
 
 ## Private Lessons
 
-Andrew offers private lessons for both the follow and lead roles in Lindy Hop, Charleston, St. Louis Shag, and Collegiate Shag. In addition, he offers instruction in solo/authentic/vernacular jazz at the rate of $70 an hour. Venue rental costs are not included if applicable.
+Andrew offers private lessons in Lindy Hop, Charleston, St. Louis Shag, Collegiate Shag and solo/authentic/vernacular jazz at the rate of $70 an hour for one or two people. Venue rental costs are not included if applicable.
 
 If you are interested in having a private lesson, please reach out on the [Contact page](https://www.andrewselzer.com/contact.html) so you can take your dancing to the next level!
