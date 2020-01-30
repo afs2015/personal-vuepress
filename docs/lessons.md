@@ -14,7 +14,7 @@ If you are interested in having a private lesson, please reach out on the [Conta
 
 ### Local Workshops
 
-For a weekend close to Boston (1-2 hours traveling time), Andrew requests at least 2 hours of teaching time at $80 an hour. Any more hours are accepted at the $80 USD per hour rate. Travel if appliciable is paid by the event.
+For a weekend in Boston or nearby (1-2 hours traveling time max), Andrew requests at least 2 hours of teaching time at $80 an hour. Any more hours are accepted at the $80 USD per hour rate. Travel and food if appliciable is paid by the event.
 
 ### Traveling Workshops
 
