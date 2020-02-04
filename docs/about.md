@@ -2,15 +2,15 @@
 
 ## Teaching Biography
 
-Andrew Selzer (he/him) began swing dancing at The Pennsylvania State University (Penn State) Swing Dance Club. A native of Southern California, Andrew had a unique swing dance upbringing, learning and dancing on both coasts of the United States. At Penn State in the central Pennsylvania area he had the opportunity to teach, DJ, and organize workshops for several years until his college graduation.
+Andrew Selzer (he/him) began swing dancing at The Pennsylvania State University (Penn State) Swing Dance Club. A native of Southern California, Andrew had a unique swing dance upbringing, learning and dancing on both coasts of the United States. At Penn State in the central Pennsylvania area he had the opportunity to teach, DJ, and organize workshops for several years until his college graduation. These days he is the business owner and a teacher of the Boston swing dance school [Boston Lindy Hop](https://bostonlindyhop.com).
 
-His travel bug has taken him to places such as Paris, France and Herräng, Sweden, and led to experiences that have provided him with a smorgasbord of influences to bring to a classroom&nbsp;setting. These days he is the business owner and a teacher of the Boston swing dance school [Boston Lindy Hop](https://bostonlindyhop.com).
+His travel bug has taken him to places such as Paris, France and Herräng, Sweden, and led to experiences that have provided him with a smorgasbord of influences to bring to a classroom&nbsp;setting.
 
-When it comes to teaching, Andrew's three priorities are dancing with your partner, being inspired by the music, and realizing that "T’aint what you do/ It’s the way that you do it."
+When it comes to teaching, Andrew's three priorities are dancing with your partner, being inspired by the music, and that "T’aint what you do/ It’s the way that you do it."
 
 ## DJing Biography
 
-Andrew Selzer (he/him) started DJing in 2010 for weekly dances in the college town of State College, Pennsylvania, but these days he hails from Boston, Massachusetts where he DJs, teaches swing dancing, and helps run the swing dance studio Boston Lindy Hop. From late nights, to band breaks, to contests, he has run the full gabmit of DJing responsibilities. Swing dance events he has DJed at include Beantown, The Boston Tea Party, SparX (Case Western Lindy Exchange), The Dirty Water Lindy Exchange, and multiple Penn State workshops and&nbsp;events.
+Andrew Selzer (he/him) started DJing in 2010 for weekly dances in the college town of State College, Pennsylvania, but these days he hails from Boston, Massachusetts where he DJs, teaches swing dancing, and owns and teaches for the swing dance studio Boston Lindy Hop. From late nights, to band breaks, to contests, and a wedding, he has run the full gabmit of DJing responsibilities. Swing dance events he has DJed at include Beantown, The Boston Tea Party, SparX (Case Western Lindy Exchange), The Dirty Water Lindy Exchange, and multiple Penn State workshops and&nbsp;events.
 
 ## Awards
 
