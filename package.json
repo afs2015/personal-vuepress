@@ -7,5 +7,10 @@
     "docs:build": "vuepress build docs -d dist"
   },
   "license": "MIT",
-  "dependencies": {}
+  "dependencies": {
+    "js-yaml": "3.14.0"
+  },
+  "resolutions": {
+    "js-yaml": "3.14.0"
+  }
 }
