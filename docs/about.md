@@ -56,6 +56,7 @@ Andrew Selzer (he/him) started DJing in 2010 for weekly dances in the college to
 * Fanueil Hall Marketplace (Teaching & DJing)
 * Celebrity Series of Boston - Let's Dance Boston (DJing)
 * The Roaring 20's Lawn Party (Teaching, Performing, & Judging)
+* The Somerville Theatre - Centennial Celebration (Performing)
 * Racebrook Lodge (Teaching & DJing)
 * Harvard Business School (Performing)
 * Impact Melanoma - 20 Year Anniversary (Performing)
@@ -72,6 +73,9 @@ Andrew Selzer (he/him) started DJing in 2010 for weekly dances in the college to
 * [Roaring 20's Lawn Party 2019 with Boston Lindy Hop](https://www.youtube.com/watch?v=viMWx8eAS7I)
 * [Roaring 20's Lawn Party 2018 with Boston Lindy Hop](https://www.youtube.com/watch?v=DBanHQ9SbLc)
 * [Roaring 20's Lawn Party 2017 with Boston Lindy Hop](https://www.youtube.com/watch?v=25jyKbnCqg8)
+
+## Music Videos
+* ["Strangers Dance"](https://www.youtube.com/watch?v=C-il4g2BXP0) by The Flashpot Moments
 
 ## Press & Projects
 * Quoted in Dance Teacher Magazine for "[6 Roaring '20s Parties That Will Get Your Knees Knocking](https://www.dance-teacher.com/6-roaring-20s-parties-that-will-get-your-knees-knocking-2581258043.html)"
