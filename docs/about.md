@@ -74,7 +74,8 @@ Andrew Selzer (he/him) started DJing in 2010 for weekly dances in the college to
 * [Roaring 20's Lawn Party 2018 with Boston Lindy Hop](https://www.youtube.com/watch?v=DBanHQ9SbLc)
 * [Roaring 20's Lawn Party 2017 with Boston Lindy Hop](https://www.youtube.com/watch?v=25jyKbnCqg8)
 
-## Music & Promotional Videos
+## Music, Corporate, and Promotional Videos
+* ["Corporate recruitment video for Sheaumann Laser"](https://www.youtube.com/watch?v=yaK-yMlny0M) - Beantown Swing Orchestra
 * ["Strangers Dance"](https://www.youtube.com/watch?v=C-il4g2BXP0) - The Flashpot Moments
 * ["Medley with Dancers"](https://www.youtube.com/watch?v=d7G7QljAwtI) - Roaring Foxes
 
