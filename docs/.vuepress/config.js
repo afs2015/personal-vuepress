@@ -2,7 +2,7 @@ module.exports = {
   description: 'Swing dance instructor, performer, and DJ based in Boston, Massachusetts.',
   head: [
     ['meta', { property: 'og:image', content: 'https://www.andrewselzer.com/hero.jpg' }],
-    ['meta', { property: 'og:title', content: 'Andrew Selzer' }],  
+    ['meta', { property: 'og:title', content: 'Andrew Selzer' }],
     ['meta', { property: 'og:url', content: 'https://www.andrewselzer.com/' }],
     ['link', { rel: 'icon', href: '/favicon.ico' }]
   ],

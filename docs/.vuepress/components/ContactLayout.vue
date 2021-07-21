@@ -8,8 +8,9 @@
         <input type="hidden" name="form-name" value="contact" />
 
         <!-- Honeypot Trap -->
-        <p class="hidden">     
-         <label>Don’t fill this out: <input name="bot-field"></label>   
+        <!-- TODO: Remove style once index.styl is fixed -->
+        <p class="hidden" style="display: none;">
+         <label>Don’t fill this out: <input name="bot-field"></label>
         </p>
 
         <!-- Form Name -->
