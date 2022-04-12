@@ -78,6 +78,7 @@ Andrew Selzer (he/him) started DJing in 2010 for weekly dances in the college to
 * ["Corporate recruitment video for Sheaumann Laser"](https://www.youtube.com/watch?v=yaK-yMlny0M) - Beantown Swing Orchestra
 * ["Strangers Dance"](https://www.youtube.com/watch?v=C-il4g2BXP0) - The Flashpot Moments
 * ["Medley with Dancers"](https://www.youtube.com/watch?v=d7G7QljAwtI) - Roaring Foxes
+* ["Blue Skies"](https://www.youtube.com/watch?v=EVsrAZgNZbA) - The Late Risers
 
 ## Press & Projects
 * Quoted in Dance Teacher Magazine for "[6 Roaring '20s Parties That Will Get Your Knees Knocking](https://www.dance-teacher.com/6-roaring-20s-parties-that-will-get-your-knees-knocking-2581258043.html)"
