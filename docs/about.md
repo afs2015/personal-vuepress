@@ -53,6 +53,9 @@ Andrew Selzer (he/him) started DJing in 2010 for weekly dances in the college to
   * 1st Place - Jack and Jill with Josephine Stewart
 
 ## Previous Clients
+* Nicole Mower Weddings and Events (Performing)
+* MIT Swing Dance Club (Teaching)
+* Gatsby Entertainment (Performing)
 * Fanueil Hall Marketplace (Teaching & DJing)
 * Celebrity Series of Boston - Let's Dance Boston (DJing)
 * The Roaring 20's Lawn Party (Teaching, Performing, & Judging)
