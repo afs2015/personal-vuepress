@@ -6,7 +6,7 @@ Andrew Selzer (he/him) began swing dancing at The Pennsylvania State University 
 
 His travel bug has taken him to places such as Paris, France and Herräng, Sweden, and led to experiences that have provided him with a smorgasbord of influences to bring to a classroom&nbsp;setting.
 
-When it comes to teaching, Andrew's three priorities are dancing with your partner, being inspired by the music, and that "T’aint what you do/ It’s the way that you do it."
+When it comes to teaching, Andrew's three priorities are that students; take care their partner, be inspired by music, and dance as themselves.
 
 ## DJing Biography
 
