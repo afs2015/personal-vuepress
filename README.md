@@ -1,5 +1,6 @@
 # Personal Vuepress Website
 [![license][license-badge]][LICENSE]
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6aa43f03-8ea9-4417-a118-b9263f00b8d7/deploy-status)](https://app.netlify.com/sites/focused-archimedes-c8cd30/deploys)
 
 This personal website is for my non-programming persuits and to try out Vuepress.
 
