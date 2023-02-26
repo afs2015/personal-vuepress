@@ -2,9 +2,9 @@
 
 ## Teaching Biography
 
-Andrew Selzer (he/him) began swing dancing at The Pennsylvania State University (Penn State) Swing Dance Club. A native of Southern California, Andrew had a unique swing dance upbringing, learning and dancing on both coasts of the United States. At Penn State in the central Pennsylvania area he had the opportunity to teach, DJ, and organize workshops for several years until his college graduation. These days he is the business owner and a teacher of the Boston swing dance school [Boston Lindy Hop](https://bostonlindyhop.com).
+Andrew Selzer (he/him) began swing dancing and teaching at The Pennsylvania State University (Penn State) Swing Dance Club. A native of Southern California, Andrew had a unique swing dance upbringing, learning and dancing on both coasts of the United States. These days he is the owner and director of [Boston Lindy Hop](https://bostonlindyhop.com), a Lindy Hop and Vernacular Jazz school based in Boston where he continues to teach.
 
-His travel bug has taken him to places such as Paris, France and Herräng, Sweden, and led to experiences that have provided him with a smorgasbord of influences to bring to a classroom&nbsp;setting.
+His travel bug has taken him to places such as Paris, France and Herräng, Sweden, and led to experiences that have provided him with a smorgasbord of influences to bring to a classroom&nbsp;setting. These influences are paired with almost 15 years of teaching experience between weekly series classes and weekend workshops.
 
 When it comes to teaching, Andrew's three priorities are that students; take care their partner, be inspired by music, and dance as themselves. In addition to his dance experience, he also plays clarinet in the jazz band, the River Street Six.
 
