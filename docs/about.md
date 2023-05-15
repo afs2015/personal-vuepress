@@ -6,7 +6,7 @@ Andrew Selzer (he/him) began swing dancing and teaching at The Pennsylvania Stat
 
 He has almost 15 years of teaching experience between weekly series classes and weekend workshops. In addition, he has had the privilege of dancing around the world and those experiences have provided him with a smorgasbord of influences to draw upon in a classroom&nbsp;setting.
 
-When it comes to teaching, Andrew's three priorities are that students; take care their partner, be inspired by music, and dance as themselves. In addition to his dance experience, he also plays clarinet in the jazz band, the River Street Six.
+When it comes to teaching, Andrew has three priorities: partnership, musicality, and self-expression. In addition to his dance experience, he also plays clarinet in the jazz band, the [River Street Six](https://www.instagram.com/riverstreetsix/).
 
 ## DJing Biography
 
