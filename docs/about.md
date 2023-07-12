@@ -53,6 +53,7 @@ Andrew Selzer (he/him) started DJing in 2010 for weekly dances in the college to
   * 1st Place - Jack and Jill with Josephine Stewart
 
 ## Previous Clients
+* CIPHER, A Percussive Arts Conference (Teaching)
 * Brown University Swing Dance Club (Teaching)
 * Nicole Mower Weddings and Events (Performing)
 * MIT Swing Dance Club (Teaching)
