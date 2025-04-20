@@ -1,51 +1,66 @@
 <template>
-  <div class="container">
-    <h1 class="title">Media Gallery</h1>
+  <div class="theme-container">
+    <Navbar /> <!-- This is the VuePress 1.x navbar -->
+    <div class="content container">
+      <h1 class="title">Media Gallery</h1>
 
-    <div class="responsive">
-      <div class="gallery">
-        <a target="_blank" href="Andrew_Andrea_Nevermore_2018.jpg">
-          <img src="Andrew_Andrea_Nevermore_2018.jpg" alt="Andrew Selzer and Andrea Byrnes competing at Nevermore Jazz Ball 2018" width="600" height="400">
-        </a>
-        <div class="desc">Photo by American Vernacular</div>
+      <div class="responsive" v-for="(image, i) in images" :key="i">
+        <div class="gallery">
+          <a :href="image.full" target="_blank">
+            <img :src="image.thumb" :alt="image.alt" />
+          </a>
+          <div class="desc">{{ image.caption }}</div>
+        </div>
       </div>
-    </div>
 
-    <div class="responsive">
-      <div class="gallery">
-        <a target="_blank" href="Cari_Andrew.jpg">
-          <img src="Cari_Andrew.jpg" alt="Andrew Selzer and Cari Meisel dancing in front of the Boston Custom House" width="600" height="400">
-        </a>
-        <div class="desc">Photo by Braden Nesin</div>
-      </div>
+      <div class="clearfix"></div>
     </div>
-
-    <div class="responsive">
-      <div class="gallery">
-        <a target="_blank" href="MariAndrewDip.jpg">
-          <img src="MariAndrewDip.jpg" alt="Andrew Selzer and Mari Adams dance at Jeanette Neil Dance Studio" width="600" height="400">
-        </a>
-        <div class="desc">Photo by Braden Nesin</div>
-      </div>
-    </div>
-
-    <div class="responsive">
-      <div class="gallery">
-        <a target="_blank" href="Katie_Andrew.jpg">
-          <img src="Katie_Andrew.jpg" alt="Katie Piselli and Andrew Selzer dancing in front of Boston Old State House" width="600" height="400">
-        </a>
-        <div class="desc">Photo by Braden Nesin</div>
-      </div>
-    </div>
-
-    <div class="clearfix"></div>
   </div>
 </template>
+
+<script>
+import Navbar from '@theme/components/Navbar.vue'
+
+export default {
+  components: { Navbar },
+  data() {
+    return {
+      images: [
+        {
+          full: 'Andrew_Andrea_Nevermore_2018.jpg',
+          thumb: 'Andrew_Andrea_Nevermore_2018.jpg',
+          alt: 'Andrew Selzer and Andrea Byrnes competing at Nevermore Jazz Ball 2018',
+          caption: 'Photo by American Vernacular'
+        },
+        {
+          full: 'Cari_Andrew.jpg',
+          thumb: 'Cari_Andrew.jpg',
+          alt: 'Andrew Selzer and Cari Meisel dancing in front of the Boston Custom House',
+          caption: 'Photo by Braden Nesin'
+        },
+        {
+          full: 'MariAndrewDip.jpg',
+          thumb: 'MariAndrewDip.jpg',
+          alt: 'Andrew Selzer and Mari Adams dance at Jeanette Neil Dance Studio',
+          caption: 'Photo by Braden Nesin'
+        },
+        {
+          full: 'Katie_Andrew.jpg',
+          thumb: 'Katie_Andrew.jpg',
+          alt: 'Katie Piselli and Andrew Selzer dancing in front of Boston Old State House',
+          caption: 'Photo by Braden Nesin'
+        }
+      ]
+    }
+  }
+}
+</script>
+
 
 <style>
 
   .container {
-    padding: 0 30px;
+    padding: 4rem 30px 0
   }
 
   div.gallery {
