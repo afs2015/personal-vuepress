@@ -2,15 +2,44 @@
 
 ## Teaching Biography
 
-Andrew Selzer (he/him) began swing dancing and teaching at The Pennsylvania State University (Penn State) Swing Dance Club. A native of Southern California, Andrew had a unique swing dance upbringing, learning and dancing on both coasts of the United States. These days he is the owner and director of [Boston Lindy Hop](https://bostonlindyhop.com), a Lindy Hop and Vernacular Jazz school based in Boston where he continues to teach.
+**Andrew Selzer** (he/him) began swing dancing and teaching at The Pennsylvania State University (Penn State) Swing Dance Club. A native of Southern California, Andrew had a unique swing dance upbringing, learning and dancing on both coasts of the United States. Today, he is the owner and director of [Boston Lindy Hop](https://bostonlindyhop.com), a Lindy Hop and Vernacular Jazz school based in Boston where he continues to teach.
 
-He has almost 15 years of teaching experience between weekly series classes and weekend workshops. In addition, he has had the privilege of dancing around the world and those experiences have provided him with a smorgasbord of influences to draw upon in a classroom&nbsp;setting.
+With nearly 15 years of teaching experience—from drop-in classes and weekly series to weekend workshops—Andrew brings a wealth of knowledge and a global perspective to the classroom. He has danced around the world, drawing inspiration from a diverse range of teachers, styles, and communities.
 
-When it comes to teaching, Andrew has three priorities: partnership, musicality, and self-expression. In addition to his dance experience, he also plays clarinet in the jazz band, the [River Street Six](https://www.instagram.com/riverstreetsix/).
+As a teacher, Andrew focuses on three key priorities: partnership, musicality, and self-expression. Outside the classroom, he has had the honor of performing as a dancer with the Preservation Hall Jazz Band and plays clarinet with [River Street Six](https://www.instagram.com/riverstreetsix/), deepening his understanding of the music that drives the dance.
 
 ## DJing Biography
 
-Andrew Selzer (he/him) started DJing in 2010 for weekly dances in the college town of State College, Pennsylvania, but these days he hails from Boston, Massachusetts where he DJs, teaches swing dancing, and owns and teaches for the swing dance studio Boston Lindy Hop. From late nights, to band breaks, to contests, and a wedding, he has run the full gabmit of DJing responsibilities. Swing dance events he has DJed at include Beantown, The Boston Tea Party, SparX (Case Western Lindy Exchange), The Dirty Water Lindy Exchange, and multiple Penn State workshops and&nbsp;events.
+**Andrew Selzer** (he/him) began DJing in 2010, spinning tracks for weekly dances in the college town of State College, Pennsylvania. Now based in Boston, Massachusetts, he DJs, teaches swing dancing, and runs Boston Lindy Hop, a swing dance studio where he also teaches.
+
+From late-night sets and band breaks to contests and weddings, Andrew has handled the full spectrum of DJing duties. He has DJed at numerous swing dance events, including Beantown, The Boston Tea Party, SparX (Case Western Lindy Exchange), The Dirty Water Lindy Exchange, and multiple workshops and events at Penn State.
+
+## Previous Clients
+
+### Dance Events & Workshops
+- **Boston Tea Party** (Judging, Teaching, & DJing)
+- **Beantown Dance Camp** (DJing & Organized DJ Summit)
+- **Dirty Water Lindy Exchange** (DJing, Organized DJ Summit, Organized Teaching Summit)
+- **CIPHER, A Percussive Arts Conference** (Teaching)
+- **Brown University Swing Dance Club** (Teaching)
+- **SparX - Case Western Lindy Exchange** (DJing) 
+- **Penn State Swing Dance Club** (Teaching, DJing, & Organizing)
+- **MIT Swing Dance Club** (Teaching)
+- **Boston Swing Central** (Teaching & DJing)
+- **Susquehanna College** (Teaching)
+- **York Social Dance Club** (Teaching)
+
+### Corporate Clients and Private Events
+- **Nicole Mower Weddings and Events** (Performing)
+- **Gatsby Entertainment** (Performing)
+- **Fanueil Hall Marketplace** (Teaching & DJing)
+- **Celebrity Series of Boston - Let's Dance Boston** (DJing)
+- **The Roaring 20's Lawn Party** (Judging, Choreographing, Teaching, & Performing)
+- **City of Quincy** (Performing)
+- **The Somerville Theatre - Centennial Celebration** (Choreographing, Performing)
+- **Racebrook Lodge** (Teaching & DJing)
+- **Harvard Business School** (Performing)
+- **Impact Melanoma - 20 Year Anniversary** (Performing)
 
 ## Awards
 
@@ -51,28 +80,6 @@ Andrew Selzer (he/him) started DJing in 2010 for weekly dances in the college to
   * 1st Place - Team Contest
 * Lindustrial Revolution
   * 1st Place - Jack and Jill with Josephine Stewart
-
-## Previous Clients
-* CIPHER, A Percussive Arts Conference (Teaching)
-* Brown University Swing Dance Club (Teaching)
-* Nicole Mower Weddings and Events (Performing)
-* MIT Swing Dance Club (Teaching)
-* Gatsby Entertainment (Performing)
-* Fanueil Hall Marketplace (Teaching & DJing)
-* Celebrity Series of Boston - Let's Dance Boston (DJing)
-* The Roaring 20's Lawn Party (Teaching, Performing, & Judging)
-* City of Quincy (Performing)
-* The Somerville Theatre - Centennial Celebration (Performing)
-* Racebrook Lodge (Teaching & DJing)
-* Harvard Business School (Performing)
-* Impact Melanoma - 20 Year Anniversary (Performing)
-* Susquehanna College (Teaching)
-* Boston Tea Party (Teaching, DJing, & Judging)
-* Beantown Dance Camp (DJing & Organized DJ Summit)
-* Dirty Water Lindy Exchange (DJing, Organized DJ Summit, Organized Teaching Summit)
-* Boston Swing Central (Teaching & DJing)
-* York Social Dance Club (Teaching)
-* Penn State Swing Dance Club (Teaching, DJing, & Organizing)
 
 ## Notable Performances
 * [Army of Follows at Lindy Focus 2019](https://www.youtube.com/watch?v=iMpiF-JUenM)
