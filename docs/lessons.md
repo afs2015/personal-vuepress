@@ -1,3 +1,24 @@
+---
+description: Private and group swing dance lessons with Andrew Selzer, plus rates for local and traveling workshops in Lindy Hop, Charleston, Balboa, Collegiate Shag, and more.
+meta:
+  - property: og:title
+    content: Lessons & Workshops | Andrew Selzer
+  - property: og:description
+    content: Private and group swing dance lessons with Andrew Selzer, plus rates for local and traveling workshops in Lindy Hop, Charleston, Balboa, Collegiate Shag, and more.
+  - property: og:url
+    content: https://www.andrewselzer.com/lessons.html
+  - property: og:image
+    content: https://www.andrewselzer.com/hero.jpg
+  - property: og:type
+    content: website
+  - name: twitter:card
+    content: summary_large_image
+  - name: twitter:title
+    content: Lessons & Workshops | Andrew Selzer
+  - name: twitter:description
+    content: Private and group swing dance lessons with Andrew Selzer, plus rates for local and traveling workshops in Lindy Hop, Charleston, Balboa, Collegiate Shag, and more.
+---
+
 # Lessons
 
 ## Group Lessons

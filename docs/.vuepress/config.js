@@ -1,10 +1,28 @@
 module.exports = {
   description: 'Swing dance instructor, performer, and DJ based in Boston, Massachusetts.',
   head: [
-    ['meta', { property: 'og:image', content: 'https://www.andrewselzer.com/hero.jpg' }],
-    ['meta', { property: 'og:title', content: 'Andrew Selzer' }],
-    ['meta', { property: 'og:url', content: 'https://www.andrewselzer.com/' }],
-    ['link', { rel: 'icon', href: '/favicon.ico' }]
+    ['link', { rel: 'icon', href: '/favicon.ico' }],
+    ['script', { type: 'application/ld+json' }, JSON.stringify({
+      '@context': 'https://schema.org',
+      '@type': 'Person',
+      name: 'Andrew Selzer',
+      url: 'https://www.andrewselzer.com/',
+      image: 'https://www.andrewselzer.com/hero.jpg',
+      jobTitle: ['Swing Dance Instructor', 'Performer', 'DJ'],
+      description: 'Swing dance instructor, performer, and DJ based in Boston, Massachusetts.',
+      telephone: '+1-949-463-6069',
+      address: {
+        '@type': 'PostalAddress',
+        addressLocality: 'Boston',
+        addressRegion: 'MA',
+        addressCountry: 'US'
+      },
+      worksFor: {
+        '@type': 'Organization',
+        name: 'Boston Lindy Hop',
+        url: 'https://bostonlindyhop.com'
+      }
+    })]
   ],
   title: 'Andrew Selzer',
   themeConfig: {

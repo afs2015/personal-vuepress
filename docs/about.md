@@ -1,3 +1,24 @@
+---
+description: Teaching biography, DJ history, awards, press mentions, and client list for Andrew Selzer, owner and director of Boston Lindy Hop.
+meta:
+  - property: og:title
+    content: About Andrew Selzer
+  - property: og:description
+    content: Teaching biography, DJ history, awards, press mentions, and client list for Andrew Selzer, owner and director of Boston Lindy Hop.
+  - property: og:url
+    content: https://www.andrewselzer.com/about.html
+  - property: og:image
+    content: https://www.andrewselzer.com/hero.jpg
+  - property: og:type
+    content: profile
+  - name: twitter:card
+    content: summary_large_image
+  - name: twitter:title
+    content: About Andrew Selzer
+  - name: twitter:description
+    content: Teaching biography, DJ history, awards, press mentions, and client list for Andrew Selzer, owner and director of Boston Lindy Hop.
+---
+
 # About
 
 ## Teaching Biography

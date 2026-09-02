@@ -3,6 +3,24 @@ home: true
 heroImage: /hero.jpg
 actionText: Contact Me →
 actionLink: ./contact.md
+description: Swing dance instructor, performer, and DJ based in Boston, Massachusetts.
+meta:
+  - property: og:title
+    content: Andrew Selzer | Swing Dance Instructor, Performer & DJ
+  - property: og:description
+    content: Swing dance instructor, performer, and DJ based in Boston, Massachusetts.
+  - property: og:url
+    content: https://www.andrewselzer.com/
+  - property: og:image
+    content: https://www.andrewselzer.com/hero.jpg
+  - property: og:type
+    content: website
+  - name: twitter:card
+    content: summary_large_image
+  - name: twitter:title
+    content: Andrew Selzer | Swing Dance Instructor, Performer & DJ
+  - name: twitter:description
+    content: Swing dance instructor, performer, and DJ based in Boston, Massachusetts.
 features:
 - title: Teacher
   details: With almost 15 years of teaching experience from workshops, weekly series, and drop in classes, Andrew can address your instructional needs. He is also the director of Boston Lindy Hop, one of Boston's premiere swing dance studios.
